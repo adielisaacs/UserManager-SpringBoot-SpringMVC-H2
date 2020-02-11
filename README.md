@@ -12,7 +12,7 @@
 ## How to Run the Application
 
 * Use Spring Tools Suite for eclipse OR eclipse STS  
-* unzip the globalkineticv2 application in your workspace 
+* unzip the application in your workspace 
 * import the the project into your workspace 
 * The project was compiled with JDK/JRE 1.8.0 131 (setup first)
 * run a Maven install cmd
