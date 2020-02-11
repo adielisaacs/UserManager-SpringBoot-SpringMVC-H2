@@ -1,8 +1,6 @@
 # Getting Started
 
-## Global Kinetic Java Practical Test 
-
-### About Global Kinetic Java Practical Test done by Adiel Isaacs 
+### Spring Boot + Spring MVC Java Practical by Adiel Isaacs 
 
 * Spring Boot / H2 Database - Loads defaulted users into a Users Table.The database is stored on local windows c:/data
 * Spring Boot / Spring Security / Spring MVC - In-Memory Authentication happens by configuring the application context in the resource folder and uses Repository design pattern to retrieve data from the database. 
