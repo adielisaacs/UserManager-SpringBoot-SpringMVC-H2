@@ -16,7 +16,7 @@
 * import the the project into your workspace 
 * The project was compiled with JDK/JRE 1.8.0 131 (setup first)
 * run a Maven install cmd (Maven Has to be Installed on your computer)
-* right click the application and run as Spring Boot application
+* right click the application and run as Spring Boot application or run the JAR file build by maven 
 * open a browser within eclipse and access the application on the following URl
 * http://localhost:8080/login    
 
